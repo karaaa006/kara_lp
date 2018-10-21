@@ -1,0 +1,19 @@
+{
+  "name": "kara_lp",
+  "version": "1.0.0",
+  "description": "Landing page by Kara",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/karaaa006/kara_lp.git"
+  },
+  "author": "Karaaa006",
+  "license": "ISC"
+}
