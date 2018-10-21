@@ -1,0 +1,11 @@
+nav {
+  text-align: center; }
+  nav li {
+    list-style: none;
+    display: inline-block; }
+    nav li a {
+      color: #333;
+      text-decoration: none;
+      display: block;
+      padding: 15px;
+      font-size: 16pt; }
